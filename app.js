@@ -8,7 +8,7 @@ app.use(express.json({ extended: true }))
 
 
 
-//другие запросы
+
 
 app.use(express.static(path.resolve(__dirname, 'client/build')));
 app.get('*', (req, res) => {
