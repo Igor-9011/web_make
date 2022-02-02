@@ -1,0 +1,6 @@
+.simples_wraper {
+    width: 60px;
+    height: 100%;
+    background-color: rgba(0, 255, 21, 0.494);
+    flex-shrink: 0;
+}

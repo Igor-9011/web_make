@@ -1,0 +1,6 @@
+.settings_wraper {
+    width: 300px;
+    height: 100%;
+    background-color: rgba(1, 171, 250, 0.549);
+    flex-shrink: 0;
+}
