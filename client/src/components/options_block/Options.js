@@ -1,9 +1,9 @@
 import './Options.css'
 
-function Options() {
+function Options(props) {
   return (
     <div className="simples_wraper">
-
+      <h1>{props.name}</h1>
     </div>
   );
 }
